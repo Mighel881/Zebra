@@ -442,7 +442,12 @@ enum PARSEL_RETURN_TYPE importPackagesToDatabase(const char *path, sqlite3 *data
                     sqlite3_bind_text(insertStatement, 12, dict_get(package, "Author"), -1, SQLITE_TRANSIENT);
                     sqlite3_bind_text(insertStatement, 13, dict_get(package, "Filename"), -1, SQLITE_TRANSIENT);
                     sqlite3_bind_text(insertStatement, 14, dict_get(package, "Icon"), -1, SQLITE_TRANSIENT);
-                    sqlite3_bind_int(insertStatement, 15, repoID);
+                    if (dict_get(package, "SileoDepiction")){
+                        sqlite3_bind_text(insertStatement, 15, dict_get(package, "SileoDepiction"), -1, SQLITE_TRANSIENT);
+                    }else{
+                        sqlite3_bind_text(insertStatement, 15, dict_get(package, "Sileodepiction"), -1, SQLITE_TRANSIENT);
+                    }
+                    sqlite3_bind_int(insertStatement, 16, repoID);
                     if (longDescription[0] != '\0')
                         longDescription[strlen(longDescription) - 1] = '\0';
                     sqlite3_step(insertStatement);
@@ -569,7 +574,11 @@ enum PARSEL_RETURN_TYPE updatePackagesInDatabase(const char *path, sqlite3 *data
                 sqlite3_bind_text(insertStatement, 12, dict_get(package, "Provides"), -1, SQLITE_TRANSIENT);
                 sqlite3_bind_text(insertStatement, 13, dict_get(package, "Filename"), -1, SQLITE_TRANSIENT);
                 sqlite3_bind_text(insertStatement, 14, dict_get(package, "Icon"), -1, SQLITE_TRANSIENT);
-                sqlite3_bind_text(insertStatement, 15, dict_get(package, "SileoDepiction"), -1, SQLITE_TRANSIENT);
+                if (dict_get(package, "SileoDepiction")){
+                    sqlite3_bind_text(insertStatement, 15, dict_get(package, "SileoDepiction"), -1, SQLITE_TRANSIENT);
+                }else{
+                    sqlite3_bind_text(insertStatement, 15, dict_get(package, "Sileodepiction"), -1, SQLITE_TRANSIENT);
+                }
                 sqlite3_bind_int(insertStatement, 16, repoID);
                 if (longDescription[0] != '\0')
                     longDescription[strlen(longDescription) - 1] = '\0';

@@ -122,6 +122,10 @@
     [request setValue:version forHTTPHeaderField:@"X-Firmware"];
     [request setValue:udid forHTTPHeaderField:@"X-Unique-ID"];
     [request setValue:machineIdentifier forHTTPHeaderField:@"X-Machine"];
+    //Tells the repo we support the payment api
+    [request setValue:@"API" forHTTPHeaderField:@"Payment-Provider"];
+    //Send the current language
+    [request setValue:[[NSLocale preferredLanguages]firstObject] forHTTPHeaderField:@"Accept-Language"];
     
     [webView loadRequest:request];
 //    [webView loadFileURL:url allowingReadAccessToURL:[url URLByDeletingLastPathComponent]];
