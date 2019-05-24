@@ -11,33 +11,6 @@
 		363FE246228785AE00B69929 /* UICKeyChainStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 363FE245228785AE00B69929 /* UICKeyChainStore.m */; };
 		363FE24922878EF100B69929 /* UIBarButtonItem+blocks.m in Sources */ = {isa = PBXBuildFile; fileRef = 363FE24822878EF000B69929 /* UIBarButtonItem+blocks.m */; };
 		363FE24F2287A1DD00B69929 /* ZBRepoPurchasedPackagesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 363FE24E2287A1DD00B69929 /* ZBRepoPurchasedPackagesTableViewController.m */; };
-		366EDF9B2298656300A58188 /* GetPackageCell.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF642298654E00A58188 /* GetPackageCell.mm */; };
-		366EDF9C2298656300A58188 /* DepictionWebView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF652298654E00A58188 /* DepictionWebView.mm */; };
-		366EDF9D2298656300A58188 /* DepictionBaseButtonView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF682298654F00A58188 /* DepictionBaseButtonView.mm */; };
-		366EDF9E2298656300A58188 /* DepictionSpacerView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF6A2298654F00A58188 /* DepictionSpacerView.mm */; };
-		366EDF9F2298656300A58188 /* DepictionStackView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF6D2298655000A58188 /* DepictionStackView.mm */; };
-		366EDFA02298656300A58188 /* DepictionHeaderView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF712298655100A58188 /* DepictionHeaderView.mm */; };
-		366EDFA12298656300A58188 /* DepictionTableButtonView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF732298655200A58188 /* DepictionTableButtonView.mm */; };
-		366EDFA22298656300A58188 /* QueueButton.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF752298655200A58188 /* QueueButton.mm */; };
-		366EDFA32298656300A58188 /* DepictionSeparatorView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF772298655300A58188 /* DepictionSeparatorView.mm */; };
-		366EDFA42298656300A58188 /* DepictionMarkdownView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF7A2298655400A58188 /* DepictionMarkdownView.mm */; };
-		366EDFA52298656300A58188 /* ModernPackageController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF7C2298655500A58188 /* ModernPackageController.mm */; };
-		366EDFA62298656300A58188 /* DepictionTableTextView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF7D2298655500A58188 /* DepictionTableTextView.mm */; };
-		366EDFA72298656300A58188 /* DepictionTab.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF7E2298655600A58188 /* DepictionTab.mm */; };
-		366EDFA82298656300A58188 /* AuthorButton.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF832298655800A58188 /* AuthorButton.mm */; };
-		366EDFA92298656300A58188 /* DepictionScreenshotsView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF842298655800A58188 /* DepictionScreenshotsView.mm */; };
-		366EDFAA2298656300A58188 /* SubDepictionTableView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF852298655800A58188 /* SubDepictionTableView.mm */; };
-		366EDFAB2298656300A58188 /* ContentCellFactory.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF882298655A00A58188 /* ContentCellFactory.mm */; };
-		366EDFAC2298656300A58188 /* DepictionSubheaderView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF892298655B00A58188 /* DepictionSubheaderView.mm */; };
-		366EDFAD2298656300A58188 /* DepictionButtonView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF8B2298655C00A58188 /* DepictionButtonView.mm */; };
-		366EDFAE2298656300A58188 /* DepictionBaseView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF8C2298655C00A58188 /* DepictionBaseView.mm */; };
-		366EDFAF2298656300A58188 /* DepictionImageView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF8F2298655E00A58188 /* DepictionImageView.mm */; };
-		366EDFB02298656300A58188 /* ModernErrorCell.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF902298655F00A58188 /* ModernErrorCell.mm */; };
-		366EDFB12298656300A58188 /* SubDepictionViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF912298655F00A58188 /* SubDepictionViewController.mm */; };
-		366EDFB22298656300A58188 /* DepictionRootView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF922298655F00A58188 /* DepictionRootView.mm */; };
-		366EDFB32298656300A58188 /* DepictionTabView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF932298656000A58188 /* DepictionTabView.mm */; };
-		366EDFB42298656300A58188 /* ModernDepictionDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF972298656100A58188 /* ModernDepictionDelegate.mm */; };
-		366EDFB52298656300A58188 /* DepictionAdmobView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 366EDF9A2298656300A58188 /* DepictionAdmobView.mm */; };
 		36D15327229240F70010EC5C /* UIImageView+Network.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D15324229240F60010EC5C /* UIImageView+Network.m */; };
 		36D15328229240F70010EC5C /* FTWCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 36D15325229240F60010EC5C /* FTWCache.m */; };
 		36D1533F22924D9F0010EC5C /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36D1533E22924D9F0010EC5C /* SDWebImage.framework */; };
@@ -123,62 +96,6 @@
 		363FE24822878EF000B69929 /* UIBarButtonItem+blocks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+blocks.m"; sourceTree = "<group>"; };
 		363FE24D2287A1DD00B69929 /* ZBRepoPurchasedPackagesTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZBRepoPurchasedPackagesTableViewController.h; sourceTree = "<group>"; };
 		363FE24E2287A1DD00B69929 /* ZBRepoPurchasedPackagesTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZBRepoPurchasedPackagesTableViewController.m; sourceTree = "<group>"; };
-		366EDF632298654D00A58188 /* DepictionHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionHeaderView.h; sourceTree = "<group>"; };
-		366EDF642298654E00A58188 /* GetPackageCell.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = GetPackageCell.mm; sourceTree = "<group>"; };
-		366EDF652298654E00A58188 /* DepictionWebView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionWebView.mm; sourceTree = "<group>"; };
-		366EDF662298654E00A58188 /* ModernErrorCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModernErrorCell.h; sourceTree = "<group>"; };
-		366EDF672298654E00A58188 /* ModernDepictionDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ModernDepictionDelegate.h; path = ../../../../../ModernDepictions/ModernDepictions/SileoDepictions/ModernDepictionDelegate.h; sourceTree = "<group>"; };
-		366EDF682298654F00A58188 /* DepictionBaseButtonView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionBaseButtonView.mm; sourceTree = "<group>"; };
-		366EDF692298654F00A58188 /* DepictionBaseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionBaseView.h; sourceTree = "<group>"; };
-		366EDF6A2298654F00A58188 /* DepictionSpacerView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionSpacerView.mm; sourceTree = "<group>"; };
-		366EDF6B2298655000A58188 /* DepictionMarkdownView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionMarkdownView.h; sourceTree = "<group>"; };
-		366EDF6C2298655000A58188 /* DepictionSubheaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionSubheaderView.h; sourceTree = "<group>"; };
-		366EDF6D2298655000A58188 /* DepictionStackView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionStackView.mm; sourceTree = "<group>"; };
-		366EDF6E2298655000A58188 /* SubDepictionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubDepictionViewController.h; sourceTree = "<group>"; };
-		366EDF6F2298655100A58188 /* GetPackageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetPackageCell.h; sourceTree = "<group>"; };
-		366EDF702298655100A58188 /* DepictionSeparatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionSeparatorView.h; sourceTree = "<group>"; };
-		366EDF712298655100A58188 /* DepictionHeaderView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionHeaderView.mm; sourceTree = "<group>"; };
-		366EDF722298655200A58188 /* DepictionStackView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionStackView.h; sourceTree = "<group>"; };
-		366EDF732298655200A58188 /* DepictionTableButtonView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionTableButtonView.mm; sourceTree = "<group>"; };
-		366EDF742298655200A58188 /* ModernCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModernCell.h; sourceTree = "<group>"; };
-		366EDF752298655200A58188 /* QueueButton.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = QueueButton.mm; sourceTree = "<group>"; };
-		366EDF762298655300A58188 /* DepictionWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionWebView.h; sourceTree = "<group>"; };
-		366EDF772298655300A58188 /* DepictionSeparatorView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionSeparatorView.mm; sourceTree = "<group>"; };
-		366EDF782298655400A58188 /* QueueButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QueueButton.h; sourceTree = "<group>"; };
-		366EDF792298655400A58188 /* ModernPackageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModernPackageController.h; sourceTree = "<group>"; };
-		366EDF7A2298655400A58188 /* DepictionMarkdownView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionMarkdownView.mm; sourceTree = "<group>"; };
-		366EDF7B2298655500A58188 /* DepictionTab.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionTab.h; sourceTree = "<group>"; };
-		366EDF7C2298655500A58188 /* ModernPackageController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ModernPackageController.mm; sourceTree = "<group>"; };
-		366EDF7D2298655500A58188 /* DepictionTableTextView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionTableTextView.mm; sourceTree = "<group>"; };
-		366EDF7E2298655600A58188 /* DepictionTab.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionTab.mm; sourceTree = "<group>"; };
-		366EDF7F2298655600A58188 /* DepictionTableButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionTableButtonView.h; sourceTree = "<group>"; };
-		366EDF802298655600A58188 /* AdmobTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AdmobTests.h; sourceTree = "<group>"; };
-		366EDF812298655700A58188 /* ContentCellFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContentCellFactory.h; sourceTree = "<group>"; };
-		366EDF822298655700A58188 /* DepictionTableTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionTableTextView.h; sourceTree = "<group>"; };
-		366EDF832298655800A58188 /* AuthorButton.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = AuthorButton.mm; sourceTree = "<group>"; };
-		366EDF842298655800A58188 /* DepictionScreenshotsView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionScreenshotsView.mm; sourceTree = "<group>"; };
-		366EDF852298655800A58188 /* SubDepictionTableView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SubDepictionTableView.mm; sourceTree = "<group>"; };
-		366EDF862298655900A58188 /* DepictionBaseButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionBaseButtonView.h; sourceTree = "<group>"; };
-		366EDF872298655900A58188 /* DepictionTabView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionTabView.h; sourceTree = "<group>"; };
-		366EDF882298655A00A58188 /* ContentCellFactory.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ContentCellFactory.mm; sourceTree = "<group>"; };
-		366EDF892298655B00A58188 /* DepictionSubheaderView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionSubheaderView.mm; sourceTree = "<group>"; };
-		366EDF8A2298655B00A58188 /* DepictionImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionImageView.h; sourceTree = "<group>"; };
-		366EDF8B2298655C00A58188 /* DepictionButtonView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionButtonView.mm; sourceTree = "<group>"; };
-		366EDF8C2298655C00A58188 /* DepictionBaseView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionBaseView.mm; sourceTree = "<group>"; };
-		366EDF8D2298655D00A58188 /* DepictionScreenshotsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionScreenshotsView.h; sourceTree = "<group>"; };
-		366EDF8E2298655D00A58188 /* DepictionSpacerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionSpacerView.h; sourceTree = "<group>"; };
-		366EDF8F2298655E00A58188 /* DepictionImageView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionImageView.mm; sourceTree = "<group>"; };
-		366EDF902298655F00A58188 /* ModernErrorCell.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ModernErrorCell.mm; sourceTree = "<group>"; };
-		366EDF912298655F00A58188 /* SubDepictionViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SubDepictionViewController.mm; sourceTree = "<group>"; };
-		366EDF922298655F00A58188 /* DepictionRootView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionRootView.mm; sourceTree = "<group>"; };
-		366EDF932298656000A58188 /* DepictionTabView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionTabView.mm; sourceTree = "<group>"; };
-		366EDF942298656000A58188 /* SubDepictionTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubDepictionTableView.h; sourceTree = "<group>"; };
-		366EDF952298656000A58188 /* DepictionAdmobView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionAdmobView.h; sourceTree = "<group>"; };
-		366EDF962298656100A58188 /* DepictionRootView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionRootView.h; sourceTree = "<group>"; };
-		366EDF972298656100A58188 /* ModernDepictionDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ModernDepictionDelegate.mm; sourceTree = "<group>"; };
-		366EDF982298656200A58188 /* DepictionButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepictionButtonView.h; sourceTree = "<group>"; };
-		366EDF992298656200A58188 /* AuthorButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AuthorButton.h; sourceTree = "<group>"; };
-		366EDF9A2298656300A58188 /* DepictionAdmobView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = DepictionAdmobView.mm; sourceTree = "<group>"; };
 		36D15323229240F60010EC5C /* UIImageView+Network.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+Network.h"; sourceTree = "<group>"; };
 		36D15324229240F60010EC5C /* UIImageView+Network.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+Network.m"; sourceTree = "<group>"; };
 		36D15325229240F60010EC5C /* FTWCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FTWCache.m; sourceTree = "<group>"; };
@@ -306,70 +223,6 @@
 			path = UICKeyChainStore;
 			sourceTree = "<group>";
 		};
-		366EDF62229864A900A58188 /* ModernDepictions */ = {
-			isa = PBXGroup;
-			children = (
-				366EDF742298655200A58188 /* ModernCell.h */,
-				366EDF802298655600A58188 /* AdmobTests.h */,
-				366EDF992298656200A58188 /* AuthorButton.h */,
-				366EDF832298655800A58188 /* AuthorButton.mm */,
-				366EDF812298655700A58188 /* ContentCellFactory.h */,
-				366EDF882298655A00A58188 /* ContentCellFactory.mm */,
-				366EDF952298656000A58188 /* DepictionAdmobView.h */,
-				366EDF9A2298656300A58188 /* DepictionAdmobView.mm */,
-				366EDF862298655900A58188 /* DepictionBaseButtonView.h */,
-				366EDF682298654F00A58188 /* DepictionBaseButtonView.mm */,
-				366EDF692298654F00A58188 /* DepictionBaseView.h */,
-				366EDF8C2298655C00A58188 /* DepictionBaseView.mm */,
-				366EDF982298656200A58188 /* DepictionButtonView.h */,
-				366EDF8B2298655C00A58188 /* DepictionButtonView.mm */,
-				366EDF632298654D00A58188 /* DepictionHeaderView.h */,
-				366EDF712298655100A58188 /* DepictionHeaderView.mm */,
-				366EDF8A2298655B00A58188 /* DepictionImageView.h */,
-				366EDF8F2298655E00A58188 /* DepictionImageView.mm */,
-				366EDF6B2298655000A58188 /* DepictionMarkdownView.h */,
-				366EDF7A2298655400A58188 /* DepictionMarkdownView.mm */,
-				366EDF962298656100A58188 /* DepictionRootView.h */,
-				366EDF922298655F00A58188 /* DepictionRootView.mm */,
-				366EDF8D2298655D00A58188 /* DepictionScreenshotsView.h */,
-				366EDF842298655800A58188 /* DepictionScreenshotsView.mm */,
-				366EDF702298655100A58188 /* DepictionSeparatorView.h */,
-				366EDF772298655300A58188 /* DepictionSeparatorView.mm */,
-				366EDF8E2298655D00A58188 /* DepictionSpacerView.h */,
-				366EDF6A2298654F00A58188 /* DepictionSpacerView.mm */,
-				366EDF722298655200A58188 /* DepictionStackView.h */,
-				366EDF6D2298655000A58188 /* DepictionStackView.mm */,
-				366EDF6C2298655000A58188 /* DepictionSubheaderView.h */,
-				366EDF892298655B00A58188 /* DepictionSubheaderView.mm */,
-				366EDF7B2298655500A58188 /* DepictionTab.h */,
-				366EDF7E2298655600A58188 /* DepictionTab.mm */,
-				366EDF7F2298655600A58188 /* DepictionTableButtonView.h */,
-				366EDF732298655200A58188 /* DepictionTableButtonView.mm */,
-				366EDF822298655700A58188 /* DepictionTableTextView.h */,
-				366EDF7D2298655500A58188 /* DepictionTableTextView.mm */,
-				366EDF872298655900A58188 /* DepictionTabView.h */,
-				366EDF932298656000A58188 /* DepictionTabView.mm */,
-				366EDF762298655300A58188 /* DepictionWebView.h */,
-				366EDF652298654E00A58188 /* DepictionWebView.mm */,
-				366EDF6F2298655100A58188 /* GetPackageCell.h */,
-				366EDF642298654E00A58188 /* GetPackageCell.mm */,
-				366EDF672298654E00A58188 /* ModernDepictionDelegate.h */,
-				366EDF972298656100A58188 /* ModernDepictionDelegate.mm */,
-				366EDF662298654E00A58188 /* ModernErrorCell.h */,
-				366EDF902298655F00A58188 /* ModernErrorCell.mm */,
-				366EDF792298655400A58188 /* ModernPackageController.h */,
-				366EDF7C2298655500A58188 /* ModernPackageController.mm */,
-				366EDF782298655400A58188 /* QueueButton.h */,
-				366EDF752298655200A58188 /* QueueButton.mm */,
-				366EDF942298656000A58188 /* SubDepictionTableView.h */,
-				366EDF852298655800A58188 /* SubDepictionTableView.mm */,
-				366EDF6E2298655000A58188 /* SubDepictionViewController.h */,
-				366EDF912298655F00A58188 /* SubDepictionViewController.mm */,
-			);
-			name = ModernDepictions;
-			path = Controllers/ModernDepictions;
-			sourceTree = "<group>";
-		};
 		8900FA512201EC6800476310 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
@@ -397,7 +250,6 @@
 		896F11B321B2309A0017B581 /* Packages */ = {
 			isa = PBXGroup;
 			children = (
-				366EDF62229864A900A58188 /* ModernDepictions */,
 				8900FA512201EC6800476310 /* Helpers */,
 				896F11C521B231AF0017B581 /* Controllers */,
 			);
@@ -735,13 +587,7 @@
 				89E8638821D5B2BE0081E485 /* ZBSearchViewController.m in Sources */,
 				36D15327229240F70010EC5C /* UIImageView+Network.m in Sources */,
 				36D15328229240F70010EC5C /* FTWCache.m in Sources */,
-				366EDFA52298656300A58188 /* ModernPackageController.mm in Sources */,
-				366EDFB32298656300A58188 /* DepictionTabView.mm in Sources */,
-				366EDFA82298656300A58188 /* AuthorButton.mm in Sources */,
 				363FE24922878EF100B69929 /* UIBarButtonItem+blocks.m in Sources */,
-				366EDFAA2298656300A58188 /* SubDepictionTableView.mm in Sources */,
-				366EDF9B2298656300A58188 /* GetPackageCell.mm in Sources */,
-				366EDFB02298656300A58188 /* ModernErrorCell.mm in Sources */,
 				896F11C321B231900017B581 /* ZBRepo.m in Sources */,
 				893952FF220B5D0100995109 /* ZBConsoleViewController.m in Sources */,
 				898E010E22480F8900BEA8E9 /* ZBRepoSectionsListTableViewController.m in Sources */,
@@ -751,48 +597,27 @@
 				89C5FDE521B1B13700A10E58 /* ZBRefreshViewController.m in Sources */,
 				89C5FDF021B1B13800A10E58 /* main.m in Sources */,
 				89CADA152263FEF3000101EE /* ZBDownloadManager.m in Sources */,
-				366EDFAF2298656300A58188 /* DepictionImageView.mm in Sources */,
 				89CA2139224043D1008F09DB /* vercmp.c in Sources */,
 				89A1B735223C97210053D0E2 /* ZBTabBarController.m in Sources */,
 				9EAE364B2289224E004CBBA3 /* ZBPackageActionsManager.m in Sources */,
-				366EDFAC2298656300A58188 /* DepictionSubheaderView.mm in Sources */,
-				366EDFB42298656300A58188 /* ModernDepictionDelegate.mm in Sources */,
-				366EDFA92298656300A58188 /* DepictionScreenshotsView.mm in Sources */,
 				7821AF6F2275F3A4006C0315 /* ZBAddRepoViewController.m in Sources */,
-				366EDF9D2298656300A58188 /* DepictionBaseButtonView.mm in Sources */,
-				366EDFA32298656300A58188 /* DepictionSeparatorView.mm in Sources */,
-				366EDF9E2298656300A58188 /* DepictionSpacerView.mm in Sources */,
 				896BAC42226D5C440020AC3C /* ZBExternalPackageTableViewController.m in Sources */,
-				366EDFAD2298656300A58188 /* DepictionButtonView.mm in Sources */,
-				366EDFB12298656300A58188 /* SubDepictionViewController.mm in Sources */,
 				49E1304622715DB8006F450A /* UIColor+GlobalColors.m in Sources */,
-				366EDFAB2298656300A58188 /* ContentCellFactory.mm in Sources */,
 				896F11BD21B231490017B581 /* ZBRepoManager.m in Sources */,
 				89159FB021F8E5FD0012C8FE /* ZBPackageDepictionViewController.m in Sources */,
-				366EDFA42298656300A58188 /* DepictionMarkdownView.mm in Sources */,
-				366EDFA12298656300A58188 /* DepictionTableButtonView.mm in Sources */,
-				366EDFB22298656300A58188 /* DepictionRootView.mm in Sources */,
 				8983E19922907228000F6604 /* UIImageView+Async.m in Sources */,
 				8990FF0D224ABE9700190BEB /* ZBDependencyResolver.m in Sources */,
 				89DD26862201571900CD31A0 /* ZBQueue.m in Sources */,
 				363FE246228785AE00B69929 /* UICKeyChainStore.m in Sources */,
-				366EDF9F2298656300A58188 /* DepictionStackView.mm in Sources */,
 				89C5FDE221B1B13700A10E58 /* ZBAppDelegate.m in Sources */,
 				8991FFA221B215C9004FCE23 /* ZBDatabaseManager.m in Sources */,
 				89E8633A21D5A1AA0081E485 /* ZBWebViewController.m in Sources */,
 				363FE24F2287A1DD00B69929 /* ZBRepoPurchasedPackagesTableViewController.m in Sources */,
-				366EDFA62298656300A58188 /* DepictionTableTextView.mm in Sources */,
 				49C526EE227BCF1700840484 /* ZBRepoTableViewCell.m in Sources */,
-				366EDFB52298656300A58188 /* DepictionAdmobView.mm in Sources */,
 				8977B6942206424B00CBACBB /* ZBPackage.m in Sources */,
 				493C3240227A905800603FB9 /* ZBPackageTableViewCell.m in Sources */,
 				89C7E49221B240D4003DB4E8 /* parsel.c in Sources */,
-				366EDFA02298656300A58188 /* DepictionHeaderView.mm in Sources */,
 				8944916F21B5AF5E00DDDEF2 /* ZBRepoListTableViewController.m in Sources */,
-				366EDFA72298656300A58188 /* DepictionTab.mm in Sources */,
-				366EDFA22298656300A58188 /* QueueButton.mm in Sources */,
-				366EDFAE2298656300A58188 /* DepictionBaseView.mm in Sources */,
-				366EDF9C2298656300A58188 /* DepictionWebView.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
